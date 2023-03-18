@@ -1,7 +1,7 @@
 package types
 
 const DefaultConfigFilePath = ".config/notify-config.yaml"
-const VersionInfo = "v0.0.1 from https://github.com/sari3l/notify\n"
+const VersionInfo = "v0.0.1 from https://github.com/CVEDB/notify\n"
 
 type Option struct {
 	Show       bool     `short:"s" long:"show" description:"显示配置信息" required:"false"`
