@@ -3,7 +3,7 @@ package utils
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/sari3l/requests/ext"
+	"github.com/CVEDB/requests/ext"
 	"reflect"
 	"strconv"
 	"strings"
